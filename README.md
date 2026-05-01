@@ -24,5 +24,5 @@ Below are the visual reports generated from the data:
 - **Business Analysis:** Extracting actionable insights from raw datasets.
 
 ## 📂 Project Files
-- `Adidas US Sales Datasets.xlsx`: The raw and processed data.
-- `Adidas-Sales-Performance-Project.pptx`: Presentation of the final findings.
+- [Download Dataset (Excel)](Adidas%20US%20Sales%20Datasets.xlsx): The raw and processed data.
+- [Download Presentation (PPTX)](Adidas-Sales-Performance-Project.pptx): Presentation of the final findings.
